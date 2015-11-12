@@ -17,4 +17,5 @@ class ActiveRecord extends _ActiveRecord
 	 * The name of the create scenario
 	 */
 	const SCENARIO_UPDATE = 'update';
+    
 }
